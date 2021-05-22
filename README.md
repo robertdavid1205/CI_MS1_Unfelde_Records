@@ -6,6 +6,6 @@ Also there will be a **Send Demos** page where the visitor will be able to send 
 
 ## Languages Used
 
-..* Html5
-..* Css3
-..* JavaScript
+* Html5
+* Css3
+* JavaScript
