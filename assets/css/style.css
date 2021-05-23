@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+
+/*--------------------------------------------Header*/
+
+.navbar-brand {
+    text-align: center;
+    text-shadow: rgba(10, 10, 10, 0.3);
+    font-size: xx-large;
+    font-weight: 600;
+    
+}
+
+.container-fluid {
+    background-color: rgba(10, 10, 10, 0.5);
+}
+
+.navbar-collapse {
+    font-weight: 400;
+    
+}
+
+/*--------------------------------------------Section*/
+
+.background-image {
+    background-position: center;
+    background-size: cover;
+}
+
+/*--------------------------------------------Footer*/
+
+footer {
+    background-color: rgba(10, 10, 10, 0.3);
+    font-family: 'Ubuntu', sans-serif;
+    color: #212529;
+    text-align: center;
+    height: 50px;
+    overflow: hidden;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 99;
+}
+
+#footer {
+    max-width: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#footer-copy{
+    float: left;
+    font-size: 1.5rem;
+    font-weight: 600;
+    padding-left: 10px;
+    padding-top: 12px;
+}
+
+/*--Transition code adapted from code by Matt Rudge at Code Institute--*/
+.social-links i {
+    float: right;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-size: 2rem;
+    color: #212529;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links i:hover {
+    color: rgb(196, 12, 12);
+}
