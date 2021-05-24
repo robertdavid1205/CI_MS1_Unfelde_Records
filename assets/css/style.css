@@ -99,3 +99,16 @@ footer {
     margin: 0 , 0 , 0 , 0;
     border: 0;
 }
+
+/*--------------------------------------------gallery*/
+
+.photos {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.photos img{
+    width: 100%;
+}
