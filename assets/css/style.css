@@ -85,6 +85,17 @@ footer {
 .carousel-item {
     width:100%; 
     height: 700px !important;
+    padding: 0;
+    margin: 0;
+    border: 0;
 }
 
-/*--------------------------------------------Body*/
+/*--------------------------------------------our story*/
+
+.container {
+    background-color: rgb(128, 127, 126);
+    padding: 0;
+    padding-right: 0;
+    margin: 0 , 0 , 0 , 0;
+    border: 0;
+}
