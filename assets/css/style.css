@@ -3,7 +3,7 @@
 
 /*--------------------------------------------Header*/
 
-.navbar-brand {
+a.navbar-brand {
     text-align: center;
     font-size: xx-large;
     font-weight: 600;  
@@ -18,7 +18,7 @@
 }
 
 .container-fluid {
-    background-color: rgba(10, 10, 10, 1);
+    background-color: red;
 }
 
 .navbar-collapse {
@@ -33,12 +33,13 @@
     background-size: cover;
 }
 
+
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: rgba(10, 10, 10, 1);
+    background-color: red;
     font-family: 'Ubuntu', sans-serif;
-    color: #c2cfdd;
+    color: black;
     text-align: center;
     height: 80px;
     overflow: hidden;
@@ -76,7 +77,7 @@ footer {
 }
 
 .social-links i:hover {
-    color: rgb(196, 12, 12);
+    color: black
 }
 
 /*--------------------------------------------Carousel*/
@@ -86,3 +87,4 @@ footer {
     height: 700px !important;
 }
 
+/*--------------------------------------------Body*/
