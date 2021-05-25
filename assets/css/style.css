@@ -15,12 +15,21 @@ a.navbar-brand {
     margin: 0;
     padding: 0px;
    
+   
 }
 
 
 .navbar-collapse {
     font-weight: 400;
     
+}
+
+h1 {
+    color: rgb(206, 16, 16);
+}
+
+ .nav-item {
+    color:rgb(206, 16, 16);
 }
 
 /*--------------------------------------------Section*/
@@ -34,7 +43,7 @@ a.navbar-brand {
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: rgb(128, 127, 126);
+    background-color: rgb(49, 43, 43);
     font-family: 'Ubuntu', sans-serif;
     color: black;
     text-align: center;
@@ -58,6 +67,7 @@ footer {
     font-weight: 600;
     padding-left: 10px;
     padding-top: 23px;
+    color:rgb(206, 16, 16);
 }
 
 /*--Transition from code by Matt Rudge at Code Institute(customized)--*/
@@ -66,7 +76,7 @@ footer {
     margin-right: 10px;
     margin-top: 23px;
     font-size: 2rem;
-    color: #c2cfdd;
+    color: rgb(206, 16, 16);
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -89,7 +99,7 @@ footer {
 /*--------------------------------------------our story*/
 
 .container-fluid {
-    background-color: rgb(128, 127, 126);
+    background-color: rgb(49, 43, 43);
     padding:0;
     margin: 0;
     border: 0;
@@ -109,6 +119,13 @@ footer {
 .our-story {
     margin: 0;
     padding: 0 20px 20px;
+    color: rgb(206, 16, 16);
+}
+
+h2 {
+    text-align: center;
+    color: rgb(206, 16, 16);
+
 }
 /*--------------------------------------------gallery*/
 
@@ -123,4 +140,19 @@ footer {
 
 .photos img{
     width: 100%;
+}
+
+/*--------------------------------------------Releases.html*/
+
+.digital {
+    display: inline-block;
+}
+
+.vinyl {
+    display: inline-block;
+}
+
+.display-card {
+    height: 50px;
+    width: 50px;
 }
