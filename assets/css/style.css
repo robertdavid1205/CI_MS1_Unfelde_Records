@@ -146,13 +146,15 @@ h2 {
 
 .digital {
     display: inline-block;
+    
 }
 
 .vinyl {
     display: inline-block;
+    
 }
 
-.display-card {
-    height: 50px;
-    width: 50px;
+.card a img {
+    height: 150px;
+    width: 150px;
 }
