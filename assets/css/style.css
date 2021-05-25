@@ -63,7 +63,7 @@ footer {
     padding-top: 23px;
 }
 
-/*--Transition code adapted from code by Matt Rudge at Code Institute--*/
+/*--Transition from code by Matt Rudge at Code Institute(customized)--*/
 .social-links i {
     float: right;
     margin-right: 10px;
@@ -100,12 +100,17 @@ footer {
     border: 0;
 }
 
+.our-story-background {
+    background-image: url("./assets/images/unfelde-logo.jpg");
+}
 /*--------------------------------------------gallery*/
+
+/*---------Credit to Code Institute course Love Running 24: Gallery Content(customized)*/
 
 .photos {
     clear: both;
     line-height: 0;
-    column-count: 4;
+    column-count: 3;
     column-gap: 0px;
 }
 
