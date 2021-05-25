@@ -93,17 +93,22 @@ footer {
     padding:0;
     margin: 0;
     border: 0;
-  
+}
+
+.story-section {
+    height: 500px;
 }
 
 .our-story-background {
     background-image: url("../images/unfelde-logo.jpg");
     background-repeat: no-repeat;
-    background-size:cover;   
+    background-size:cover;
+    height:500px;   
 }
 
 .our-story {
     margin: 0;
+    padding: 0 20px 20px;
 }
 /*--------------------------------------------gallery*/
 
