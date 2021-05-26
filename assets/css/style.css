@@ -120,6 +120,7 @@ footer {
     margin: 0;
     padding: 0 20px 20px;
     color: rgb(206, 16, 16);
+    text-decoration-style: solid;
 }
 
 h2 {
@@ -158,3 +159,31 @@ h2 {
     height: 150px;
     width: 150px;
 }
+
+/*--------------------------------------------Send Us A Demo.html*/
+
+.button {
+    transition-duration: 0.2s;
+    border-radius: 5px;
+    position: absolute;
+    top:50%;
+    left:20%;
+    width: 10%;
+    color: lightcoral;
+
+  }
+  
+  .button:hover {
+    background-color: #ec0000; 
+    color: white;
+  }
+
+  .background-send {
+      background-color:rgb(49, 43, 43);;
+      height:800px;
+      position: relative;
+  }
+
+  .form-area {
+      padding: 90px;
+  }
