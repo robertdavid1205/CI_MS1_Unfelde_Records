@@ -132,16 +132,19 @@ h2 {
 
 /*---------Credit to Code Institute course Love Running 24: Gallery Content(customized)*/
 
-.photos {
+#photos {
     clear: both;
     line-height: 0;
     column-count: 3;
     column-gap: 0px;
 }
 
-.photos img{
+
+#photos img{
     width: 100%;
 }
+
+
 
 /*--------------------------------------------Releases.html*/
 
@@ -195,3 +198,28 @@ h3 {
   .form-area {
       padding: 90px;
   }
+
+  textarea {
+      background-color: grey;
+  }
+
+  label {
+      font-weight: 400;
+      color:rgb(206, 16, 16);
+  }
+
+/*--------------------------------------------Contact.html*/
+
+  .mapouter{
+      position:relative;
+      text-align:right;
+      height:250px;
+      width:max-content;
+    }
+
+    .gmap_canvas {
+        overflow:hidden;
+        background:none!important;
+        height:250px;
+        width:max-content;
+    }
