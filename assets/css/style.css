@@ -223,3 +223,15 @@ h3 {
         height:250px;
         width:max-content;
     }
+
+    .section-area-contact {
+        background-color:rgb(49, 43, 43);
+    }
+
+    .contact-detail {
+        color: rgb(206, 16, 16);
+    }
+
+    .contact-text {
+        color: rgb(206, 16, 16);
+    }

@@ -47,42 +47,48 @@
     </header>
 
     <section>
+      <div class="section-area-contact">
        <h3>Contact Us!</h3>
-       <form>
-        <div class="form-group">
-          <label for="exampleFormControlInput1">Email address</label>
-          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
-        </div>
-        <div class="form-group">
-          <label for="exampleFormControlTextarea1">Example textarea</label>
-          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-        </div>
-      </form>
-      <button type="button" class="btn btn-secondary button">Send</button>
+         <form>
+           <div class="form-group">
+              <label for="form-control-input1">Email address</label>
+              <input type="email" class="form-control" id="form-control-input1" placeholder="name@email.com">
+           </div>
+           <div class="form-group">
+              <label for="form-control-textarea1">Details</label>
+              <textarea class="form-control" id="form-control-textarea1" rows="5" placeholder="Your Text Here!"></textarea>
+           </div>
+         </form>
+        <button type="button" class="btn btn-secondary button">Send!</button>
+        <br>
+      </div>
     </section>
     <section>
-       <div>
+       <div class="section-area-contact">
          <!------ Code adapted from Ken Wee Chin -----> 
-        <div class="container">
+         <div class="container col-sm-4">
           <div class="row">
               <div class="col-12 col-lg-6 col-md-6">
                   <div class="contact-title">
-                      <h4 class="contact-detail">Contact Info</h4>
-                      <hr class="third-line-break">
-                      <p><i class="fas fa-phone-volume"></i> Tel:<a href="tel:353838643480"
-                              title="Phone number">+353838643480 </a></p>
-                      <p><i class="fas fa-at"></i> <a href="mailto:demo@unfelderecords.com"
-                              title="luconiainstitute">demo@unfelderecords.com</a></p>
-                      <p class="address"><i class="fas fa-map-marked-alt"></i> 78 Middle Abbey St, D01 RW24<br>
-                          Dublin<br>
-                          Ireland</p>
+                         <h4 class="contact-detail">Contact Info</h4>
+                         <hr class="third-line-break">
+                         <p><i class="fas fa-phone-volume contact-text"></i> Tel:
+                           <a href="tel:353838643480" title="Phone number" class="contact-text">+353838643480 </a>
+                         </p>
+                         <p>
+                           <i class="fas fa-at"></i> 
+                           <a href="mailto:demo@unfelderecords.com" title="luconiainstitute" class="contact-text">demo@unfelderecords.com</a>
+                         </p>
+                         <p class="address contact-text"><i class="fas fa-map-marked-alt"></i> 78 Middle Abbey St, D01 RW24<br>
+                          Dublin<br>Ireland
+                        </p>
                   </div>
               </div>
-         <div class="mapouter">
+         <div class="mapouter col-sm-4">
            <div class="gmap_canvas">
-             <iframe width="1080" height="250" id="gmap_canvas" src="https://maps.google.com/maps?q=%20The%20Oval%20Bar%20Dublin%20Ireland&t=k&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+             <iframe height="250" id="gmap_canvas" src="https://maps.google.com/maps?q=%20The%20Oval%20Bar%20Dublin%20Ireland&t=k&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
              <br>
-             <a href="https://www.embedgooglemap.net">google maps widget html</a>
+             <a href="https://www.embedgooglemap.net">Google Maps Widget html</a>
            </div>
          </div>
        </div>
