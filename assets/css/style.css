@@ -96,6 +96,7 @@ footer {
     border: 0;
 }
 
+
 /*--------------------------------------------our story*/
 
 .container-fluid {
@@ -256,26 +257,38 @@ h3 {
         width:max-content;
     }
 
+    
+
     .section-area-contact {
         background-color:rgb(49, 43, 43);
-        padding-bottom: 40px;
+        padding-bottom: 10px;
     }
 
     .contact-detail {
         color: rgb(206, 16, 16);
+        text-align: center;
     }
 
     .contact-text {
         color: rgb(206, 16, 16);
+        text-align: center;
     }
 
     .button-contact {
         transition-duration: 0.2s;
         border-radius: 5px;
         position: sticky;
-        margin-top: 10px;
-        left: 43%;
+        margin-top: 50px;
+        left: 45%;
         width: 10%;
+    }
+
+    .contact.title {
+        text-align: center;
+    } 
+
+    .contact.title p i a {
+        text-align: center;
     }
 
     .contact-header {
@@ -285,11 +298,11 @@ h3 {
     }
 
     .form-group1 {
-        padding-left: 30px;
-        padding-right: 30px;
+        padding-left: 80px;
+        padding-right: 80px;
     }
 
     .form-group2 {
-        padding-left: 30px;
-        padding-right: 30px;
+        padding-left: 80px;
+        padding-right: 80px;
     }
