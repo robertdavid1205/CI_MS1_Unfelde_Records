@@ -109,19 +109,28 @@ footer {
     height: 500px;
 }
 
-.our-story-background {
-    background-image: url("../images/unfelde-logo.jpg");
-    background-repeat: no-repeat;
-    background-size:cover;
-    height:500px;   
-}
-
 .our-story {
     margin: 0;
     padding: 0 40px 40px;
     color: rgb(206, 16, 16);
-    text-decoration-style: solid;
+    text-decoration-style: solid;   
 }
+
+.our-story-background {
+   height: 400px;
+}
+
+.our-story-heading {
+    color: rgb(206, 16, 16);
+    text-align: center;
+    font-size: xx-large;
+    padding-top: 15px;
+}
+
+.our-story-container {
+    word-wrap: break-word;
+}
+.
 
 h2 {
     text-align: center;
@@ -129,6 +138,29 @@ h2 {
 
 }
 /*--------------------------------------------gallery*/
+
+.gallery-heading {
+    font-size: xx-large;
+    text-align: center;
+    color: rgb(206, 16, 16);
+    text-transform: uppercase;
+    font-weight: 400;
+}
+
+.gallery-section {
+    background-color:rgb(49, 43, 43);
+}
+
+@media screen and (max-width:414px) {
+    .gallery-section {
+        width: 50%;
+        float: left;
+        clear: none;
+        padding-left: 0;
+        padding-right: 0;
+        
+    } 
+}
 
 /*---------Credit to Code Institute course Love Running 24: Gallery Content(customized)*/
 
