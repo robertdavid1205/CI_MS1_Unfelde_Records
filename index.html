@@ -14,8 +14,7 @@
     <title>Unfelde Records</title>
 
 </head>
-
-<body class="body-background">
+<body class="body-background"> 
     <header>
         <!-- Credit: Bootstrap Navbar -> https://getbootstrap.com/docs/5.0/components/navbar/ -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
@@ -45,31 +44,9 @@
             </div>
           </nav>
      </header>
-     
-     <section>
-       <!-- Credit: Bootstrap Carousel -> https://getbootstrap.com/docs/5.0/components/carousel/ -->
-      <div id="party-carousel" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner container-fluid ">
-          <div class="carousel-item active center-block">
-            <img src="assets/images/party4.jpg" class="d-block w-100" alt="first-slide">
-          </div>
-          <div class="carousel-item center-block">
-            <img src="assets/images/party12.jpg" class="d-block w-100" alt="second-slide">
-          </div>
-          <div class="carousel-item center-block">
-            <img src="assets/images/party3.jpg" class="d-block w-100" alt="third-slide">
-          </div>
-          <div class="carousel-item center-block">
-            <img src="assets/images/party13.jpg" class="d-block w-100" alt="fourth-slide">
-          </div>
-          </div>
-        </div>
-    
-    </section>
-           <!--Start of our story-->
-  <section id="our-story" class="container-fluid story-section">
-    <div>
-      <div class="col-sm-12 col-md-12 our-story-background">
+       <!--Start of our story-->
+    <section>
+      <div class="container-fluid our-story-background">
         <h2 class="our-story-heading">Our Story</h2>
         <hr class="hr-med">
         <div class="our-story-container">
@@ -86,9 +63,32 @@
            </p>
         </div>
       </div>
-    </div>
-  </section>
-
+       <!-- Credit: Bootstrap Carousel -> https://getbootstrap.com/docs/5.0/components/carousel/ -->
+       <div id="carousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img src="./assets/images/party12.jpg" class="d-block w-100" alt="first slide">
+          </div>
+          <div class="carousel-item">
+            <img src="./assets/images/party13.jpg" class="d-block w-100" alt="second slide">
+          </div>
+          <div class="carousel-item">
+            <img src="./assets/images/party3.jpg" class="d-block w-100" alt="third slide">
+          </div>
+          <div class="carousel-item">
+            <img src="./assets/images/party4.jpg" class="d-block w-100" alt="fourth slide">
+          </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </section>
     <footer>
         <div id="footer">
             <span class="d-none d-sm-block" id="footer-copy">

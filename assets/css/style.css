@@ -89,12 +89,7 @@ footer {
 
 /*--------------------------------------------Carousel*/
 
-.carousel-item {
-    width:100%; 
-    padding: 0;
-    margin: 0;
-    border: 0;
-}
+
 
 
 /*--------------------------------------------our story*/
@@ -118,8 +113,12 @@ footer {
 }
 
 .our-story-background {
-   height: 400px;
+    height: 500px; 
+    overflow: scroll;
+    text-align: justify;
+
 }
+
 
 .our-story-heading {
     color: rgb(206, 16, 16);
@@ -127,11 +126,6 @@ footer {
     font-size: xx-large;
     padding-top: 15px;
 }
-
-.our-story-container {
-    word-wrap: break-word;
-}
-.
 
 h2 {
     text-align: center;
@@ -192,7 +186,7 @@ h3 {
 }
 
 .card {
-    display:inline-block
+    display:inline-block;
     width: 33.3%;
     padding: 0;
     text-align: center;
@@ -278,7 +272,6 @@ h3 {
     .contact-header {
         text-align: center;
         text-transform: uppercase;
-        padding-top
     }
 
     .form-group1 {
