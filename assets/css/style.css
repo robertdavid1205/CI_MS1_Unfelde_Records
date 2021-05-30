@@ -115,6 +115,7 @@ footer {
 .our-story-background {
     height: 500px; 
     overflow: scroll;
+    overflow-x: hidden;
     text-align: justify;
 
 }
@@ -168,6 +169,9 @@ h2 {
 
 .card-section {
     background-color:rgb(49, 43, 43);
+    
+
+     
 }
 
 h3 {
@@ -181,6 +185,7 @@ h3 {
     width: 33.3%;
     padding: 0;
     text-align: center;
+    background-color: rgb(49, 43, 43);
 }
 
 .card a img {
