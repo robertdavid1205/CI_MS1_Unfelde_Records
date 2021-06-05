@@ -258,7 +258,7 @@ h3 {
     padding-left: 90px;
     padding-right: 90px;
 }
-  }
+  
 
   textarea {
       background-color: grey;
@@ -337,3 +337,12 @@ h3 {
         padding-left: 80px;
         padding-right: 80px;
     }
+
+
+    @media only screen and (max-width: 768px) {
+        /* For mobile view: */
+        .photos {
+          column-count: 2;
+          background-color:rgb(49, 43, 43);
+        }
+      }
