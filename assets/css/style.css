@@ -21,6 +21,7 @@ a.navbar-brand {
 
 .navbar-collapse {
     font-weight: 400;
+    padding-left: 20px;
     
 }
 
@@ -178,6 +179,7 @@ h3 {
     color:rgb(206, 16, 16);
     text-transform: uppercase;
     letter-spacing: 2px;
+    text-align: center;
 }
 
 .card {
@@ -192,6 +194,10 @@ h3 {
     height: 180px;
     width: 180px;
     
+}
+
+.row {
+    --bs-gutter-x: 0;
 }
 
 /*--------------------------------------------Send Us A Demo.html*/
@@ -345,4 +351,9 @@ h3 {
           column-count: 2;
           background-color:rgb(49, 43, 43);
         }
+        .card {
+            width: 50%;
+        }
       }
+
+ 
