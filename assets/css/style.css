@@ -377,48 +377,74 @@ h3 {
     /*--------------------------------------------Reviews.html*/
     /*---Credit to Code Institute course Love Running 12: Club Ethos(customized)*/
 
-    #reviews {
-        height: 800px; 
+    .reviews {
+        height: 412px; 
+        background-color: rgb(49, 43, 43);
+    }
+
+    .review-heading {
+        text-align: center;
+        padding: 30px 0;
+        background-color: rgb(49, 43, 43);
     }
 
     .left-review {
-        padding-top: 50px;
+        padding-top: 20px;
         width: 33%;
+        height: 300px;
         float: left;
-        background-color:rgb(117, 117, 117);
+        background-color:rgb(23 12 1);
     }
 
     .right-review {
-        padding-top: 50px;
+        padding-top: 20px;
         width: 33%;
+        height: 300px;
         float: right;
-        background-color:rgb(117, 117, 117);
+        background-color:rgb(23 12 1);
     }
 
     .center-review {
         width: 33%;
+        height: 300px;
         margin: 0 auto;
-        background-color:rgb(117, 117, 117)
+        background-color:rgb(23 12 1);
     }
 
-    .review-brake {
-        color: black;
+    .review-hr {
+        color:#b1b1b1;
         width: 100%;
         margin: 5px 0;
     }
 
     .left-side-review {
-        width: 60%;
-        float: right;
+        width: 90%;
+        clear: both;
+        height: fit-content;
         line-height: 20px;
-        clear: both; 
+        text-align:center;
+        margin-right: 20px;
+        margin-left: 20px;
     }
 
     .right-side-review {
-        width: 60%;
-        float: left;
+        width: 90%;
+        height: fit-content;
+        clear: both;
         line-height: 20px;
-        clear: both; 
+        text-align:center;
+        margin-left: 20px;
+        margin-right: 20px; 
+    }
+
+    .responsive-iframe {
+        width: 100%;
+        height: 100%;
+        padding: 0;
+    }
+
+    #text-review {
+        color: #b1b1b1;
     }
 
 
