@@ -40,8 +40,50 @@
               </ul>
             </div>
           </div>
-          <button class="nav-join d-none d-lg-block hvr-grow demo-button" type="button" data-bs-toggle="modal" data-bs-target="#sendModal">Send Demos</button>
+          <button class="nav-join d-none d-lg-block hvr-grow demo-button" type="button" data-bs-toggle="modal" data-bs-target="#sendmodal">Send Demos</button>
         </nav>
+          <!-- Credit: Bootstrap Modal redesigned to help users send demos quicly and easy. -->
+          <div class="modal fade" id="sendmodal" tabindex="-1" role="dialog" aria-labelledby="send-modal-label" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                  <div class="modal-header modal-logo">
+                    <div>
+                        <button type="button" class="btn-close hvr-grow" data-bs-dismiss="modal" aria-label="close"></button>
+                    </div>
+                    <div id="demos-section">
+                        <h3 class="demos">Demos</h3>
+                      <div id="center-logo">
+                         <div id="circle-container">
+                            <div id="circle-cover-bg">
+                            </div>
+                         </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="modal-body">
+                          <!-- Credit: Bootstrap Form -> https://getbootstrap.com/docs/4.3/components/forms/ -->
+                     <div class="background-send">
+                         <form class="form-area">
+                            <div class="form-group">
+                              <label for="form-control-input1">Email address</label>
+                              <input type="email" class="form-control" id="form-control-input1" placeholder="name@email.com">
+                            </div>
+                            <div class="form-group">
+                              <label for="form-control-textarea1">Bio and Details</label>
+                              <textarea class="form-control" id="form-control-textarea1" placeholder="Bio and Details" rows="4"></textarea>
+                            </div>
+                            <div class="form-group">
+                              <label for="form-control-textarea2">Links</label>
+                              <textarea class="form-control" id="form-control-textarea1" placeholder="Your Link" rows="3"></textarea>
+                            </div>
+                         </form>
+                            <button type="button" class="btn btn-secondary button modal-button">Send</button>
+                     </div>
+
+                  </div>
+                </div>
+            </div>
+        </div>
     </header>
 
     <section>
