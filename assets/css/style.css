@@ -33,6 +33,17 @@ h1 {
     color:rgb(206, 16, 16) !important;
 }
 
+.demo-button {
+    height: 66px;
+    width: 90px;
+    background-color:rgb(49, 43, 43);
+    margin:0;
+    border:0;
+    padding:0px;
+    text-align: center;
+    color: rgb(206, 16, 16);
+}
+
 /*--------------------------------------------Section*/
 
 .background-image {
@@ -360,6 +371,15 @@ h3 {
         .button-contact {
             width: revert;  
         }
+        .demo-button {
+            display: none;
+        }
       }
 
+
+      @media only screen and (max-width: 990px) {
+        .demo-button {
+            display: none;
+        }
+      }
  
