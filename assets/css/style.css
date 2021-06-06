@@ -385,12 +385,40 @@ h3 {
         padding-top: 50px;
         width: 33%;
         float: left;
+        background-color:rgb(117, 117, 117);
     }
 
     .right-review {
         padding-top: 50px;
         width: 33%;
         float: right;
+        background-color:rgb(117, 117, 117);
+    }
+
+    .center-review {
+        width: 33%;
+        margin: 0 auto;
+        background-color:rgb(117, 117, 117)
+    }
+
+    .review-brake {
+        color: black;
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .left-side-review {
+        width: 60%;
+        float: right;
+        line-height: 20px;
+        clear: both; 
+    }
+
+    .right-side-review {
+        width: 60%;
+        float: left;
+        line-height: 20px;
+        clear: both; 
     }
 
 
