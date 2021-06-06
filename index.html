@@ -34,9 +34,6 @@
                     <a class="nav-link links" href="releases.html">Releases</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link links" href="sendademo.html">Send Us A Demo</a>
-                  </li>
-                  <li class="nav-item">
                     <a class="nav-link links" href="contact.html">Contact</a>
                   </li>
                 </ul>
@@ -44,6 +41,42 @@
             </div>
             <button class="nav-join d-none d-lg-block hvr-grow demo-button" type="button" data-bs-toggle="modal" data-bs-target="#sendModal">Send Demos</button>
           </nav>
+          <!-- Credit: Bootstrap Modal designed to help users send demos quicly and easy. -->
+        <div class="modal fade" id="sendmodal" tabindex="-1" role="dialog" aria-labelledby="send-modal-label" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                  <div class="modal-header">
+                      <button type="button" class="btn-close hvr-grow" data-bs-dismiss="modal" aria-label="close"></button>
+                  </div>
+                  <div class="modal-body">
+                      <div class="container">
+                          <div class="row">
+                              <div class="col">
+                                  <h3 class="modal-title my-5" id="send-modal-label">Send Us Your Demo:</h3>
+                                  <form method="POST" action="https://formdump.codeinstitute.net/">
+                                      <div class="mb-3">
+                                          <label for="yourname" class="form-label">Full Name</label>
+                                          <input type="text" id="yourname" class="form-input" required>
+                                      </div>
+                                      <div class="mb-3">
+                                          <label for="email" class="form-label">Email</label>
+                                          <input type="email" id="email" class="form-input" required>
+                                      </div>
+                                      <div class="mb-3">
+                                          <label for="link" class="form-label">Your Link Here</label>
+                                          <input type="text" id="link" class="form-input" required>
+                                      </div>
+                                      <div class="mb-3">
+                                          <input id="submit-button" class="hvr-grow" type="submit" value="Submit"> 
+                                      </div>
+                                  </form>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
      </header>
        <!--Start of our story-->
     <section>
