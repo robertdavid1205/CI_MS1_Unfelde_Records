@@ -374,6 +374,25 @@ h3 {
         padding-right: 80px;
     }
 
+    /*--------------------------------------------Reviews.html*/
+    /*---Credit to Code Institute course Love Running 12: Club Ethos(customized)*/
+
+    #reviews {
+        height: 800px; 
+    }
+
+    .left-review {
+        padding-top: 50px;
+        width: 33%;
+        float: left;
+    }
+
+    .right-review {
+        padding-top: 50px;
+        width: 33%;
+        float: right;
+    }
+
 
     @media only screen and (max-width: 768px) {
         /* For mobile view: */
