@@ -47,6 +47,9 @@ h1 {
     padding:0px;
     text-align: center;
     color: rgb(206, 16, 16);
+    top: -8% !important;
+    left: 84% !important;
+
 }
 
 /*--------------------------------------------Modal*/
