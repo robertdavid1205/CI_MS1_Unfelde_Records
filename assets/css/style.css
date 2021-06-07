@@ -52,6 +52,8 @@ h1 {
 
 }
 
+
+
 /*--------------------------------------------Modal*/
 
 .modal-content {
@@ -151,6 +153,7 @@ footer {
     overflow: scroll;
     overflow-x: hidden;
     text-align: justify;
+    position: relative;
 
 }
 
@@ -166,6 +169,17 @@ h2 {
     text-align: center;
     color: rgb(206, 16, 16);
 
+}
+
+.demo-button2 {
+    position: absolute;
+    margin: 0;
+    top: 48%;
+    left: 39%;
+    transform: translateY(787%);
+
+
+    
 }
 /*--------------------------------------------gallery*/
 
