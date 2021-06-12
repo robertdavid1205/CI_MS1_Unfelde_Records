@@ -554,6 +554,11 @@ h3 {
             position: absolute;
             top: 30%;
             left: 35%;
+            background-color: rgb(49, 43, 43);
+            border:rgb(206, 16, 16);
+            border-style: double;
+            border-radius: 25px;
+            color: rgb(206, 16, 16);
         }
         .demo-button {
             display: none;
