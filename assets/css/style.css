@@ -215,6 +215,7 @@ h2 {
     line-height: 0;
     column-count: 3;
     column-gap: 0px;
+    background-color:rgb(49, 43, 43);
 }
 
 
@@ -482,8 +483,20 @@ h3 {
         height: 300px;
     }
 
-    #text-review {
-        color: #b1b1b1;
+    #text-review1 {
+        color: #dddddd;
+    }
+
+    #text-review2 {
+        color: #dddddd;
+    }
+
+    #text-review3 {
+        color: #dddddd;
+    }
+
+    #text-review4 {
+        color: #dddddd;
     }
 
 
@@ -525,11 +538,12 @@ h3 {
       @media only screen and (max-width: 1990px) {
          .our-story-background {
             height: 380px; !important
+        }
     }
-}
 
-@media only screen and (max-width: 990px) {
+      @media only screen and (max-width: 990px) {
          .left-review .right-review .center-review {
             display: block; 
+            float: none;
+        }
     }
-}
