@@ -27,7 +27,11 @@ a.navbar-brand {
     padding-right: 30%;
     padding-left: 10%;
     font-size: large;
-    
+    text-decoration: solid;
+}
+
+.navbar-nav {
+    text-align: center;
 }
 
 h1 {
