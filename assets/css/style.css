@@ -65,7 +65,7 @@ h1 {
 }
 
 .modal-logo {
-    display: inline-block; !important
+    display: inline-block !important;
 }
 
 .modal-button {
@@ -522,7 +522,7 @@ h3 {
 
     @media only screen and (max-width: 1990px) {
          .our-story-background {
-            height: 380px; !important
+            height: 380px !important;
         }
 
         .demo-button2 {
