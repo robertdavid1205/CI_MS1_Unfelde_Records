@@ -145,7 +145,8 @@ footer {
     margin: 0;
     padding: 0 40px 40px;
     color: rgb(206, 16, 16);
-    text-decoration-style: solid;   
+    text-decoration-style: solid;  
+    font-size: x-large; 
 }
 
 .our-story-background {
@@ -162,7 +163,9 @@ footer {
     color: rgb(206, 16, 16);
     text-align: center;
     font-size: xx-large;
-    padding-top: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #291f1f;
 }
 
 h2 {
@@ -189,6 +192,10 @@ h2 {
     color: rgb(206, 16, 16);
     text-transform: uppercase;
     font-weight: 400;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #291f1f;
+    margin: 0;
 }
 
 #gallery {
@@ -229,6 +236,7 @@ h3 {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
+    background-color: #291f1f;
 }
 
 .card {
@@ -399,12 +407,14 @@ h3 {
     .reviews {
         height: 412px; 
         background-color: rgb(49, 43, 43);
+        
     }
 
     .review-heading {
         text-align: center;
         padding: 30px 0;
-        background-color: rgb(49, 43, 43);
+        background-color: #291f1f;
+        margin: 0;
     }
 
     .left-review {
@@ -413,6 +423,7 @@ h3 {
         height: 300px;
         float: left;
         background-color:rgb(23 12 1);
+    
     }
 
     .right-review {
@@ -510,5 +521,11 @@ h3 {
       @media only screen and (max-width: 1990px) {
          .our-story-background {
             height: 380px; !important
+    }
+}
+
+@media only screen and (max-width: 990px) {
+         .left-review .right-review .center-review {
+            display: block; 
     }
 }
