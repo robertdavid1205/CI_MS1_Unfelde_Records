@@ -542,8 +542,19 @@ h3 {
     }
 
       @media only screen and (max-width: 990px) {
-         .left-review .right-review .center-review {
-            display: block; 
+         .left-review ,
+         .right-review ,
+         .center-review {
+            width: 100%;
             float: none;
+        }
+
+        .reviews {
+            height: unset;
+        }
+
+        .review-iframe {
+            text-align:center;
+  		    width:100%;
         }
     }
