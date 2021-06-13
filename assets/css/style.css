@@ -257,7 +257,7 @@ h3 {
     --bs-gutter-x: 0;
 }
 
-/*--------------------------------------------Send Us A Demo.html*/
+/*--------------------------------------------Send Us A Demo.html (Modal)*/
 
  .demos {
     text-align:center;
@@ -283,9 +283,7 @@ h3 {
     border-width: 2px;
     border-radius: 5%;
     margin: 0 auto;
-    background: url(../images/rsz_unfeldelogo.jpg) 
-    no-repeat 
-    center;
+    background: url(../images/rsz_unfeldelogo.jpg) no-repeat center;
  }
 
  #circle-cover-bg {
@@ -332,7 +330,7 @@ h3 {
       color:rgb(206, 16, 16);
   }
 
-/*--------------------------------------------Contact.html*/
+/*----------------------------------------------Contact.html*/
 
     .section-area-contact {
         background-color:rgb(49, 43, 43);
@@ -502,7 +500,7 @@ h3 {
         color: #dddddd;
     }
 
-
+    /* ----------------------------------------------- Media Quieries  */
     @media only screen and (max-width: 790px) {
         /* For mobile view: */
         .photos {
