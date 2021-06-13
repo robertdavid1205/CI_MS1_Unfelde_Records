@@ -26,11 +26,12 @@ Also there will be a **Send Demos** page where the visitor will be able to send 
 4. To recieve as many demos as possible , with the related info needed as well.
 
 ### Design Choices
-*The goal for this site was to create a simple and easy to use platform, that has also the "underground vibe" that is characteristic to the musical genre.
+* The goal for this site was to create a simple and easy to use platform, that has also the "underground vibe" that is characteristic to the musical genre.
 
 ### Colors
 Main colors are **Red** / **Brown** and **Grey**. Most of the website is **Brown** and **Red** to give the feeling of something dark, like the club rooms, the **Red** text reminds you of the red neons from the clubs and venues. **Grey** is the least used color, just to give a bit of contrast here and there. 
 
+### Fonts
 
 ### Languages Used
 
