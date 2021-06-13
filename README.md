@@ -1,6 +1,11 @@
-https://robertdavid1205.github.io/CI_MS1_Unfelde_Records/
+![Mockup of website](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/mockup/mockup-ufd.png)
+
+
+[View the deployed website](https://robertdavid1205.github.io/CI_MS1_Unfelde_Records/)
+
 
 # Unfelde Records
+
 
 
 Unfelde Records is a Underground Minimal/Techno record label that releases underground electronic music in both digital and Vinyl-Only format for a niched public.
