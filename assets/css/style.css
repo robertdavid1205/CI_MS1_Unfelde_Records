@@ -504,12 +504,13 @@ h3 {
         .card {
             width: 50%;
         }
+        
         .button {
             width: revert;
         }
         .button-contact {
             width: revert;  
-        }
+        }  
         .demo-button {
             display: none;
         }
