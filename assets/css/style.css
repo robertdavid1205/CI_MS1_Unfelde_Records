@@ -512,10 +512,10 @@ h3 {
         }
         
         .button {
-            width: revert;
+            width: unset;
         }
         .button-contact {
-            width: revert;  
+            width: unset;  
         }  
         .demo-button {
             display: none;
