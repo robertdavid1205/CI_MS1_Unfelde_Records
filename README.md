@@ -32,6 +32,16 @@ Also there will be a **Send Demos** page where the visitor will be able to send 
 Main colors are **Red** / **Brown** and **Grey**. Most of the website is **Brown** and **Red** to give the feeling of something dark, like the club rooms, the **Red** text reminds you of the red neons from the clubs and venues. **Grey** is the least used color, just to give a bit of contrast here and there. 
 
 ### Fonts
+I have used Ubuntu as the font for the whole website. Clean and easy to read.
+
+### Structure
+In the upper part there's a navigation menu, which contains the name of the record label "Unfelde Records" in the left side , then in the middle section whe have 4 pages "Gallery, Releases, Reviews and Contact" and in the right side we have a button "Send Demos" that opens up a modal.
+On the index page, we have **Our Story**, with some information about what we are and what we are doing, and underneath there's a carousel with photos from festivals and events.
+Then The **Gallery** page, displays a whole page of images from different places where our music is used and enjoyed...and made :)
+Next there's the **Releases** page that showcases our **Digital** and **Vinyl-Only** releases with cards that send you directly to the webistes whre you can buy the music from.
+**Reviews** page is filled with some reviews fomr the industry leading names alongside with some nice, enjoyable clips.
+Then we have our **Contact** page where you will find a form for sending us enquiries and questions you may have, there's also contact infomation and a map that pinpoints to our headquarters.
+**Send Demos** is a modal that can be accesed from all the pages, which contains our logo and a form which is designed for the producers that want to send us demos for a chance to get to release their music with us.
 
 ### Languages Used
 
