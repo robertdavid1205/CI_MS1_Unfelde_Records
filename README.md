@@ -89,6 +89,11 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
               [Reviews](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/validation/reviews-html-check.jpg)
               [Contact Us](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/validation/contact-html-check.jpg)
               
+#### CSS Validation
+
+I used [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to validate the CSS code. All the pages pass with 0 errors.
+
+Result here: [CSS](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/validation/css-check.jpg)
 
 ### Languages Used
 
