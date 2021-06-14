@@ -79,6 +79,12 @@ Then we have our **Contact** page where you will find a form for sending us enqu
  
 ### Testing
 
+#### HTML Validation
+
+I used [W3C Markup Validation Service](https://validator.w3.org/) to validate the HTML code. All the pages pass with 0 errors.
+
+Results here: [Index]()
+
 ### Languages Used
 
 * Html5
