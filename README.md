@@ -49,6 +49,35 @@ Next there's the **Releases** page that showcases our **Digital** and **Vinyl-On
 Then we have our **Contact** page where you will find a form for sending us enquiries and questions you may have, there's also contact infomation and a map that pinpoints to our headquarters.
 **Send Demos** is a modal that can be accesed from all the pages, which contains our logo and a form which is designed for the producers that want to send us demos for a chance to get to release their music with us.
 
+*** Wireframes 
+1. Index
+* [mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/mobile/index_mobile.png)
+* [tablet](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/tablet/index_tablet.png)
+* [desktop](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/desktop/index_desktop.png)
+
+2. Gallery 
+* [mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/mobile/gallery_mobile.png)
+* [tablet](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/tablet/gallery_tablet.png)
+* [desktop](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/desktop/gallery_desktop.png)
+
+3. Releases
+* [mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/mobile/releases_mobile.png)
+* [tablet](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/tablet/releases_tablet.png)
+* [desktop](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/desktop/releases_desktop.png)
+
+4. Reviews
+* [mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/mobile/reviews_mobile.png)
+* [tablet](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/tablet/reviews_tablet.png)
+* [desktop](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/desktop/reviews_desktop.png)
+
+5. Contact Us
+* [mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/mobile/contact%20us_mobile.png)
+* [tablet](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/tablet/contact_us_tablet.png)
+* [desktop](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/desktop/contact_us_desktop.png)
+
+6. [Modal](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/modal.png)
+ 
+
 ### Languages Used
 
 * Html5
