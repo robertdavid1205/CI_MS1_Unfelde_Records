@@ -49,7 +49,7 @@ Next there's the **Releases** page that showcases our **Digital** and **Vinyl-On
 Then we have our **Contact** page where you will find a form for sending us enquiries and questions you may have, there's also contact infomation and a map that pinpoints to our headquarters.
 **Send Demos** is a modal that can be accesed from all the pages, which contains our logo and a form which is designed for the producers that want to send us demos for a chance to get to release their music with us.
 
-*** Wireframes 
+### Wireframes 
 1. Index
 * [mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/mobile/index_mobile.png)
 * [tablet](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/tablet/index_tablet.png)
@@ -77,6 +77,7 @@ Then we have our **Contact** page where you will find a form for sending us enqu
 
 6. [Modal](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/modal.png)
  
+### Testing
 
 ### Languages Used
 
