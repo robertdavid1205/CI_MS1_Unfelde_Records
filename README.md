@@ -83,7 +83,12 @@ Then we have our **Contact** page where you will find a form for sending us enqu
 
 I used [W3C Markup Validation Service](https://validator.w3.org/) to validate the HTML code. All the pages pass with 0 errors.
 
-Results here: [Index]()
+Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/validation/index-html-check.jpg)
+              [Gallery](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/validation/gallery-html-check.jpg)
+              [Releases](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/validation/releases-html-check.jpg)
+              [Reviews](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/validation/reviews-html-check.jpg)
+              [Contact Us](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/validation/contact-html-check.jpg)
+              
 
 ### Languages Used
 
