@@ -7,15 +7,16 @@ a.navbar-brand {
     text-align: center;
     font-size: xx-large;
     font-weight: 600;  
-    color: #c2cfdd; 
-    
+    color: #c2cfdd;    
 }
 
 .navbar {
     margin: 0;
     padding: 0px;
-   
-   
+}
+
+.nav-link {
+    color: rgb(211, 211, 211) !important;
 }
 
 
@@ -35,22 +36,22 @@ a.navbar-brand {
 }
 
 h1 {
-    color: rgb(206, 16, 16);
+    color: rgb(211, 211, 211);
 }
 
  div ul li a {
-    color:rgb(206, 16, 16) !important;
+    color:rgb(211, 211, 211); !important;
 }
 
 .demo-button {
     height: 66px;
     width: 90px;
-    background-color:rgb(49, 43, 43);
+    background-color:rgb(10, 9, 9);
     margin:0;
     border:0;
     padding:0px;
     text-align: center;
-    color: rgb(206, 16, 16);
+    color: rgb(211, 211, 211);
     top: -8% !important;
     left: 84% !important;
 
@@ -61,7 +62,7 @@ h1 {
 /*--------------------------------------------Modal*/
 
 .modal-content {
-    background-color:rgb(49, 43, 43);
+    background-color:rgb(10, 9, 9);
 }
 
 .modal-logo {
@@ -83,7 +84,7 @@ h1 {
 /*--------------------------------------------Footer*/
 
 footer {
-    background-color: rgb(49, 43, 43);
+    background-color: rgb(10, 9, 9);
     font-family: 'Ubuntu', sans-serif;
     color: black;
     text-align: center;
@@ -107,7 +108,7 @@ footer {
     font-weight: 600;
     padding-left: 10px;
     padding-top: 23px;
-    color:rgb(206, 16, 16);
+    color:rgb(211, 211, 211);
 }
 
 /*--Transition from code by Matt Rudge at Code Institute(customized)--*/
@@ -116,7 +117,7 @@ footer {
     margin-right: 10px;
     margin-top: 23px;
     font-size: 2rem;
-    color: rgb(206, 16, 16);
+    color: rgb(211, 211, 211);
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -124,7 +125,7 @@ footer {
 }
 
 .social-links i:hover {
-    color: black
+    color: rgb(168, 12, 12)
 }
 
 /*--------------------------------------------Carousel*/
@@ -135,7 +136,7 @@ footer {
 /*--------------------------------------------our story*/
 
 .container-fluid {
-    background-color: rgb(49, 43, 43);
+    background-color: rgb(10, 9, 9);
     padding:0;
     margin: 0;
     border: 0;
@@ -148,7 +149,7 @@ footer {
 .our-story {
     margin: 0;
     padding: 0 40px 40px;
-    color: rgb(206, 16, 16);
+    color: rgb(211, 211, 211);
     text-decoration-style: solid;  
     font-size: x-large; 
 }
@@ -164,7 +165,7 @@ footer {
 
 
 .our-story-heading {
-    color: rgb(206, 16, 16);
+    color: rgb(211, 211, 211);
     text-align: center;
     font-size: xx-large;
     padding-top: 20px;
@@ -174,7 +175,7 @@ footer {
 
 h2 {
     text-align: center;
-    color: rgb(206, 16, 16);
+    color: rgb(211, 211, 211);
 
 }
 
@@ -188,7 +189,7 @@ h2 {
 .gallery-heading {
     font-size: xx-large;
     text-align: center;
-    color: rgb(206, 16, 16);
+    color: rgb(211, 211, 211);
     text-transform: uppercase;
     font-weight: 400;
     padding-top: 20px;
@@ -198,7 +199,7 @@ h2 {
 }
 
 #gallery {
-    background-color:rgb(49, 43, 43);
+    background-color:rgb(10, 9, 9);
     height: auto;
 }
 
@@ -210,7 +211,7 @@ h2 {
     line-height: 0;
     column-count: 3;
     column-gap: 0px;
-    background-color:rgb(49, 43, 43);
+    background-color:rgb(10, 9, 9);
 }
 
 
@@ -223,14 +224,14 @@ h2 {
 /*--------------------------------------------Releases.html*/
 
 .card-section {
-    background-color:rgb(49, 43, 43);
+    background-color:rgb(10, 9, 9);
     
 
      
 }
 
 h3 {
-    color:rgb(206, 16, 16);
+    color:rgb(211, 211, 211);
     text-transform: uppercase;
     letter-spacing: 2px;
     text-align: center;
@@ -244,7 +245,7 @@ h3 {
     width: 33.3%;
     padding: 0;
     text-align: center;
-    background-color: rgb(49, 43, 43);
+    background-color: rgb(10, 9, 9);
 }
 
 .card a img {
@@ -266,7 +267,7 @@ h3 {
  }
 
  #demos-section {
-    background-color:rgb(49, 43, 43);
+    background-color:rgb(10, 9, 9);
  }
 
  #center-logo {
@@ -278,7 +279,7 @@ h3 {
     width: 240px;
     height: 240px;
     padding: 10px;
-    border-color:rgb(206, 16, 16);
+    border-color:rgb(211, 211, 211);
     border-style: solid;
     border-width: 2px;
     border-radius: 5%;
@@ -309,7 +310,7 @@ h3 {
   }
 
   .background-send {
-      background-color:rgb(49, 43, 43);
+      background-color:rgb(10, 9, 9);
       height:800px;
       position: relative;
   }
@@ -327,23 +328,23 @@ h3 {
 
   label {
       font-weight: 400;
-      color:rgb(206, 16, 16);
+      color:rgb(211, 211, 211);
   }
 
 /*----------------------------------------------Contact.html*/
 
     .section-area-contact {
-        background-color:rgb(49, 43, 43);
+        background-color:rgb(10, 9, 9);
         padding-bottom: 10px;
     }
 
     .contact-detail {
-        color: rgb(206, 16, 16);
+        color: rgb(211, 211, 211);
         text-align: center;
     }
 
     .contact-text {
-        color: rgb(206, 16, 16);
+        color: rgb(211, 211, 211);
         text-align: center;
     }
 
@@ -385,7 +386,7 @@ h3 {
         padding-top: 10px;
         width:auto;
         height: 300px;
-        background-color:rgb(49, 43, 43);
+        background-color:rgb(10, 9, 9);
     }
 
     .resp-iframe {
@@ -404,7 +405,7 @@ h3 {
 
     .reviews {
         height: 412px; 
-        background-color: rgb(49, 43, 43);
+        background-color: rgb(10, 9, 9);
         padding-top: 30px;
         
     }
@@ -439,7 +440,7 @@ h3 {
         width: 33%;
         height: 300px;
         margin: 0 auto;
-        background-color:rgb(49, 43, 43);
+        background-color:rgb(10, 9, 9);
     }
 
     .iframe-container {
@@ -505,7 +506,7 @@ h3 {
         /* For mobile view: */
         .photos {
           column-count: 2;
-          background-color:rgb(49, 43, 43);
+          background-color:rgb(10, 9, 9);
         }
         .card {
             width: 50%;
@@ -563,11 +564,11 @@ h3 {
             position: absolute;
             top: 30%;
             left: 35%;
-            background-color: rgb(49, 43, 43);
-            border:rgb(206, 16, 16);
+            background-color: rgb(10, 9, 9);
+            border:rgb(211, 211, 211);
             border-style: double;
             border-radius: 25px;
-            color: rgb(206, 16, 16);
+            color: rgb(211, 211, 211);
         }
         .demo-button {
             display: none;
