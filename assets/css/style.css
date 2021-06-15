@@ -16,7 +16,8 @@ a.navbar-brand {
 }
 
 .nav-link {
-    color: #000000 !important;
+    color: #ffffff !important;
+    font-weight: 500;
 }
 
 
@@ -36,7 +37,7 @@ a.navbar-brand {
 }
 
 h1 {
-    color: rgb(211, 211, 211);
+    color: #ffffff;
 }
 
  div ul li a {
@@ -51,7 +52,8 @@ h1 {
     border:0;
     padding:0px;
     text-align: center;
-    color: #000000;
+    color: #ffffff;
+    font-weight: 500;
     top: -8% !important;
     left: 84% !important;
 
@@ -108,7 +110,7 @@ footer {
     font-weight: 600;
     padding-left: 10px;
     padding-top: 23px;
-    color:rgb(211, 211, 211);
+    color:#ffffff;
 }
 
 /*--Transition from code by Matt Rudge at Code Institute(customized)--*/
@@ -117,7 +119,7 @@ footer {
     margin-right: 10px;
     margin-top: 23px;
     font-size: 2rem;
-    color: rgb(211, 211, 211);
+    color: #ffffff;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -125,7 +127,7 @@ footer {
 }
 
 .social-links i:hover {
-    color: rgb(168, 12, 12)
+    color: rgb(168, 12, 12);
 }
 
 /*--------------------------------------------Carousel*/
