@@ -246,6 +246,10 @@ h3 {
     background-color: rgb(27 27 27);
 }
 
+h4 {
+     color: #ffffff;
+}
+
 .card {
     display:inline-block;
     width: 33.3%;
