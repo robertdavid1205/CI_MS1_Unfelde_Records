@@ -97,7 +97,27 @@ Result here: [CSS](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blo
 
 #### Accesibility
 
-I used [WAVE WebAIM evaluation tool](https://wave.webaim.org/) to check the website's accesibility standards.
+I used [WAVE WebAIM evaluation tool](https://wave.webaim.org/) to check the website's accesibility standards. All the pages have 4 errors.
+* the errors come from 4 empty links from the icons in the footer. I have consulted with a tutor regarding this issue, and he asked me if the validator showed any erros.
+  The validator didn't show any errors so he told me that:
+  "I've never seen W3 mention that issue before and textless <a> tags are quite common these days. In that case, you'll be absolutely fine with your icons alone"  and "If it    doesn't appear in the W3 validator then it won't affect anything,"
+
+  Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/webaim/webaim-index.png)
+                [Gallery](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/webaim/webaim-gallery.png)
+                [Releases](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/webaim/webaim-releases.png)
+                [Reviews](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/webaim/webaim-reviews.png)
+                [Contact Us](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/webaim/webaim-contact.png)
+
+#### Performance
+
+I used [Google Lighthouse](https://developers.google.com/web/tools/lighthouse) to check performance of the website and it passes with scores between 93 and 100 on all pages on all 4 criterias Performance/ Accesibility/ Best Practices/ SEO.
+
+Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/lighthouse/lighthouse-index.png)
+              [Gallery](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/lighthouse/lighthouse-gallery.png)
+              [Releases](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/lighthouse/lighthouse-releases.png)
+              [Reviews](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/lighthouse/lighthouse-reviews.png)
+              [Contact Us](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/lighthouse/lighthouse-contact.png)
+
 
 ### Languages Used
 
