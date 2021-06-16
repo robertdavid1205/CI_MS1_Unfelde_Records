@@ -95,6 +95,10 @@ I used [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) to val
 
 Result here: [CSS](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/validation/css-check.jpg)
 
+#### Accesibility
+
+I used [WAVE WebAIM evaluation tool](https://wave.webaim.org/) to check the website's accesibility standards.
+
 ### Languages Used
 
 * Html5
