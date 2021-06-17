@@ -165,7 +165,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
 
 1. As a radio dj I'm always looking for fresh new music, something that not many have, these guys are exactly what I'm looking for with every release the have.
 | Feature       | Action           | Expected Result  | Actual Result |    
-| ------------- |:----------------:| ----------------:| ------------: |
+| ------------- | ---------------- | ---------------- | ------------- |
 |Find our releases in the releases page | click on Releases up in the navbar | To find our latest releases | Works as expected |
 
 ### Languages Used
