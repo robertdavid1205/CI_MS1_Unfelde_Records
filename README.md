@@ -49,6 +49,20 @@ Next there's the **Releases** page that showcases our **Digital** and **Vinyl-On
 Then we have our **Contact** page where you will find a form for sending us enquiries and questions you may have, there's also contact infomation and a map that pinpoints to our headquarters.
 **Send Demos** is a modal that can be accesed from all the pages, which contains our logo and a form which is designed for the producers that want to send us demos for a chance to get to release their music with us.
 
+### Frameworks, libraries and other tools 
+
+1. [Git](https://git-scm.com/)
+2. [GitHub](https://github.com/)
+3. [Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+4. [Balsamiq](https://balsamiq.com/)
+5. [Font Awesome](https://fontawesome.com/)
+6. [Google Fonts](https://fonts.google.com/)
+7. [Am I Responsive](http://ami.responsivedesign.is/)
+8. [Picresize.com](https://picresize.com/)
+9. [Google Maps](https://www.google.co.uk/maps)
+
+
+
 ### Wireframes 
 1. Index
 * [mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/mobile/index_mobile.png)
@@ -146,6 +160,13 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
 * *Safari*: Website and user stories work as expected.
 * *Microsoft Edge*: Website and user stories work as expected.
 * *Firefox*: Website and user stories work as expected.
+
+#### Testing user stories
+
+1. As a radio dj I'm always looking for fresh new music, something that not many have, these guys are exactly what I'm looking for with every release the have.
+| Feature       | Action           | Expected Result  | Actual Result |    
+| ------------- |:----------------:| ----------------:| ------------: |
+|Find our releases in the releases page | click on Releases up in the navbar | To find our latest releases | Works as expected |
 
 ### Languages Used
 
