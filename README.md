@@ -173,3 +173,20 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
 * Html5
 * Css3
 * JavaScript
+
+### Credits
+
+#### Code
+* *Bootstrap* - code for Navbar / Modal / Form
+* *Code Institute* - code for *Reviews from our fans* and logo in modal from the lesson Love Running 12: Club Ethos
+* *W3C Schools* - code for imbeded map
+* *Ken Wee Chin* - code for contact details
+
+#### Media
+* [Meoko](https://www.facebook.com/meokoLDN/)
+* [Tommel](https://www.facebook.com/trommelmusic)
+
+### Aknowledgements
+
+* To Mo Shami, my mentor, for understanding me, for the feedback and support.
+* To Code Institute Slack Community for advice and guidance. 
