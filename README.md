@@ -9,8 +9,8 @@
 
 
 Unfelde Records is a Underground Minimal/Techno record label that releases underground electronic music in both digital and Vinyl-Only format for a niched public.
-I aim to present our brand and what it stands for, our releases with links to sites and a gallery from events we had.
-Also there will be a **Send Demos** page where the visitor will be able to send us theyr work for a possible release with us.
+I aim to present our brand and what it stands for, our releases with links to sites and a gallery from events we had, alongside with contact details  and reviews.
+Also there will be a **Send Demos** page where the visitor will be able to send us their work for a possible release with us.
 
 ### User Goals
 1. Hear new music released.
@@ -164,9 +164,9 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
 #### Testing user stories
 
 1. As a radio dj I'm always looking for fresh new music, something that not many have, these guys are exactly what I'm looking for with every release the have.
-| Feature       | Action           | Expected Result  | Actual Result |    
-| ------------- | ---------------- | ---------------- | ------------- |
-|Find our releases in the releases page | click on Releases up in the navbar | To find our latest releases | Works as expected |
+| Feature                  | Action                             | Expected Result                   | Actual Result           |    
+| ------------------------ | ---------------------------------- | --------------------------------- | ----------------------- |
+|Find our releases in the releases page | Click on Releases up in the navbar | To find our latest releases | Works as expected |
 
 ### Languages Used
 
