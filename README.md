@@ -20,10 +20,10 @@ Also there will be a **Send Demos** page where the visitor will be able to send 
 5. Contact us with equiries trough the form.
 
 ### User Stories
-* As a radio dj I'm always looking for fresh new music, something that not many have, these guys are exactly what I'm looking for with every release the have.
-* As a new producer I very often being rejected by the big labels, most of the time they don't even listen to my work, Unfelde Records is that label that always listens to what I send them and they even give feedback so I can get better at what I'm doing.
-* As an established producer, I want my music to be heard by as many people as possible, and I want to know details about whoever releases my music, so I can be sure that our paths intersect. Their website offers me all the info I need and quick acces to their social media as well.
-* As an underground electronic music pasionate, I want to have cool new and inedit music to "brag" to my friends with, and here I always find quality stuff.
+1. As a radio dj I'm always looking for fresh new music, something that not many have, these guys are exactly what I'm looking for with every release the have.
+2. As a new producer I very often being rejected by the big labels, most of the time they don't even listen to my work, Unfelde Records is that label that always listens to what I send them and they even give feedback so I can get better at what I'm doing.
+3. As an established producer, I want my music to be heard by as many people as possible, and I want to know details about whoever releases my music, so I can be sure that our paths intersect. Their website offers me all the info I need and quick acces to their social media as well.
+4. As an underground electronic music pasionate, I want to have cool new and inedit music to "brag" to my friends with, and here I always find quality stuff.
 
 ### Site Owner Goals
 1. To have all the information easy to reach.
@@ -118,6 +118,34 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
               [Reviews](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/lighthouse/lighthouse-reviews.png)
               [Contact Us](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/lighthouse/lighthouse-contact.png)
 
+#### Performed tests on:
+
+* HP Envy
+* Huawei P smart 2019
+* Huawei P20
+* Samsung Galaxy Tab S6
+
+##### Tests performed:
+
+1. Page links and icons redirect the user to the corect place on both desktop and mobile versions.
+2. The "Our Story" section is scrollable in mobile and tablet views.
+3. Nav bar links are able to redirect users to the correct page and there are no broken links.
+4. The "Send Demo" modal opens up correctly and it closes by clicking on the close(x) icon.
+5. In the case of an incorrect URL, the user is redirected to a 404 page wich will direct them back to the home page. 
+6. The Gallery section collapes to 2 columns in mobile view.
+7. The cards in the Releases page redirect the users to the correct page to buy the product.
+8. All the buttons display a hover effect in both views.
+
+##### Results:
+
+* All the devices passed all tests.
+
+#### Browser compatibility
+
+* *Google Chrome*: Website and user stories work as expected.
+* *Safari*: Website and user stories work as expected.
+* *Microsoft Edge*: Website and user stories work as expected.
+* *Firefox*: Website and user stories work as expected.
 
 ### Languages Used
 
