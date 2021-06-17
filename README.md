@@ -35,7 +35,7 @@ Also there will be a **Send Demos** page where the visitor will be able to send 
 * The goal for this site was to create a simple and easy to use platform, that has also the "underground vibe" that is characteristic to the musical genre.
 
 ### Colors
-Main colors are **Red** / **Brown** and **Grey**. Most of the website is **Brown** and **Red** to give the feeling of something dark, like the club rooms, the **Red** text reminds you of the red neons from the clubs and venues. **Grey** is the least used color, just to give a bit of contrast here and there. 
+Main colors are **Black** / **Grey** and **Dark Orange**. Most of the website is **Black** and **Grey** to give the feeling of something minimalistic, simple and dark, like the club sound that we are promoting, the **Dark Orange** color is used in the Navbar and Footer and ads a nice touch to the minimalist vibe that we aimed to create.
 
 ### Fonts
 I have used Ubuntu as the font for the whole website. Clean and easy to read.
