@@ -20,10 +20,13 @@ Also there will be a **Send Demos** page where the visitor will be able to send 
 5. Contact us with equiries trough the form.
 
 ### User Stories
-1. As a radio dj I'm always looking for fresh new music, something that not many have, these guys are exactly what I'm looking for with every release the have.
-2. As a new producer I very often being rejected by the big labels, most of the time they don't even listen to my work, Unfelde Records is that label that always listens to what I send them and they even give feedback so I can get better at what I'm doing.
-3. As an established producer, I want my music to be heard by as many people as possible, and I want to know details about whoever releases my music, so I can be sure that our paths intersect. Their website offers me all the info I need and quick acces to their social media as well.
-4. As an underground electronic music pasionate, I want to have cool new and inedit music to "brag" to my friends with, and here I always find quality stuff.
+1. As a radio dj I'm always looking for fresh new music that's easy to reach.
+2. As a new producer, looking for a place to sign with, I want to send demos easy and fast.
+3. As a first time user I want to find out more about the Record Label.
+4. As a first time user I want to find contact information about the record label.
+5. As a first time user I want to check their Social media pages.
+6. As a first time user and a fan of the musical genre, I want to see cool photos from the events and festivals.
+7. As a site owner, I want users to be able to contact us easily with queries or feedback.
 
 ### Site Owner Goals
 1. To have all the information easy to reach.
@@ -163,12 +166,8 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
 
 #### Testing user stories
 
-1. As a radio dj I'm always looking for fresh new music, something that not many have, these guys are exactly what I'm looking for with every release the have.
-| Feature                  | Action                             | Expected Result                   | Actual Result           |    
-| ------------------------ | ---------------------------------- | --------------------------------- | ----------------------- |
-|Find our releases in the releases page | Click on Releases up in the navbar | To find our latest releases | Works as expected |
-
- <table>
+1. As a radio dj I'm always looking for fresh new music that's easy to reach.
+  <table>
         <tr>
             <th>Feature</th>
             <th>Action</th>
@@ -176,12 +175,109 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <th>Actual Result</th>
         </tr>
         <tr>
-            <td>Find our releases in the releases page</td>
+            <td>Releases age</td>
             <td>Click on Releases up in the navbar</td>
             <td>To find our latest releases</td>
             <td>Works as expected</td>
         </tr>
-    </table>
+  </table>
+
+2. As a new producer, looking for a place to sign with, I want to send demos easy and fast.
+  <table>
+        <tr>
+            <th>Feature</th>
+            <th>Action</th>
+            <th>Expected Result</th>
+            <th>Actual Result</th>
+        </tr>
+        <tr>
+            <td>Send demos</td>
+            <td>Click on send demos button up in the navbar, or on mobile view, under the text in our story, same button</td>
+            <td>able to send demos easily</td>
+            <td>Works as expected</td>
+        </tr>
+  </table>
+
+  3. As a first time user I want to find out more about the Record Label.
+  <table>
+        <tr>
+            <th>Feature</th>
+            <th>Action</th>
+            <th>Expected Result</th>
+            <th>Actual Result</th>
+        </tr>
+        <tr>
+            <td> information about us in Our Story</td>
+            <td>click on home page,and the info is displayed between the navbar and the carousel, in movile view the text is scrollable</td>
+            <td>find info about us</td>
+            <td>Works as expected</td>
+        </tr>
+  </table>
+
+  4. As a first time user I want to find contact information about the record label.
+  <table>
+        <tr>
+            <th>Feature</th>
+            <th>Action</th>
+            <th>Expected Result</th>
+            <th>Actual Result</th>
+        </tr>
+        <tr>
+            <td>Contact Us</td>
+            <td>Click on contact us up in the navbar</td>
+            <td>view info like addres, phone nr, email, and a helpfull map</td>
+            <td>Works as expected</td>
+        </tr>
+  </table>
+
+  5. As a first time user I want to check their Social media pages.
+  <table>
+        <tr>
+            <th>Feature</th>
+            <th>Action</th>
+            <th>Expected Result</th>
+            <th>Actual Result</th>
+        </tr>
+        <tr>
+            <td>Social media icons in the footer</td>
+            <td>Scroll to the bottom of every page</td>
+            <td>to find the social media links</td>
+            <td>Works as expected</td>
+        </tr>
+  </table>
+
+6. As a first time user and a fan of the musical genre, I want to see cool photos from the events and festivals.
+  <table>
+        <tr>
+            <th>Feature</th>
+            <th>Action</th>
+            <th>Expected Result</th>
+            <th>Actual Result</th>
+        </tr>
+        <tr>
+            <td>Gallery</td>
+            <td>Click on gallery button up in the navbar</td>
+            <td>view photos from events and festivals</td>
+            <td>Works as expected</td>
+        </tr>
+  </table>
+
+  7. As a site owner, I want users to be able to contact us easily with queries or feedback.
+  <table>
+        <tr>
+            <th>Feature</th>
+            <th>Action</th>
+            <th>Expected Result</th>
+            <th>Actual Result</th>
+        </tr>
+        <tr>
+            <td>Contact us form</td>
+            <td>Click on contact us in the navbar and you will find the form there, alongside other info</td>
+            <td>ability to send queries or feedback easy</td>
+            <td>Works as expected</td>
+        </tr>
+  </table>
+
 ### Languages Used
 
 * Html5
