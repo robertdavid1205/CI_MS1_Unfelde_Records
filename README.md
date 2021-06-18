@@ -181,6 +181,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table> 
+  [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story1.png)
 
 2. As a new producer, looking for a place to sign with, I want to send demos easy and fast.
   <table>
@@ -197,6 +198,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story2.png)
 
   3. As a first time user I want to find out more about the Record Label.
   <table>
@@ -213,6 +215,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story3.png)
 
   4. As a first time user I want to find contact information about the record label.
   <table>
@@ -229,6 +232,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story4.png)
 
   5. As a first time user I want to check their Social media pages.
   <table>
@@ -245,6 +249,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story5.png)
 
 6. As a first time user and a fan of the musical genre, I want to see cool photos from the events and festivals.
   <table>
@@ -261,6 +266,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story6.png)
 
   7. As a site owner, I want users to be able to contact us easily with queries or feedback.
   <table>
@@ -277,6 +283,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story7.png)
 
 ### Languages Used
 
