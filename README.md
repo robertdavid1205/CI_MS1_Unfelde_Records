@@ -168,6 +168,20 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
 | ------------------------ | ---------------------------------- | --------------------------------- | ----------------------- |
 |Find our releases in the releases page | Click on Releases up in the navbar | To find our latest releases | Works as expected |
 
+ <table>
+        <tr>
+            <th>Feature</th>
+            <th>Action</th>
+            <th>Expected Result</th>
+            <th>Actual Result</th>
+        </tr>
+        <tr>
+            <td>Find our releases in the releases page</td>
+            <td>Click on Releases up in the navbar</td>
+            <td>To find our latest releases</td>
+            <td>Works as expected</td>
+        </tr>
+    </table>
 ### Languages Used
 
 * Html5
