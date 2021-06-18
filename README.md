@@ -180,7 +180,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>To find our latest releases</td>
             <td>Works as expected</td>
         </tr>
-  </table>
+  </table> 
 
 2. As a new producer, looking for a place to sign with, I want to send demos easy and fast.
   <table>
