@@ -5,21 +5,42 @@
 
 
 # Unfelde Records
-
+---
 
 
 Unfelde Records is a Underground Minimal/Techno record label that releases underground electronic music in both digital and Vinyl-Only format for a niched public.
 I aim to present our brand and what it stands for, our releases with links to sites and a gallery from events we had, alongside with contact details  and reviews.
 Also there will be a **Send Demos** page where the visitor will be able to send us their work for a possible release with us.
 
+### Project Goals
+---
+* Increasing the brand awareness by offering to the user a simple and user friendly platform where to get information.
+* Increase sales by offering the option to browse trough our catalogue with direct links to buy sites.
+* Showcasing our sound and our philosphy for a niched public.
+
 ### User Goals
+---
 1. Hear new music released.
 2. Be up to date with our catalogue.
 3. Be able to send demos for a posible release.
 4. Obtain contact info.
 5. Contact us with equiries trough the form.
 
+### User Experience
+
+The website was designed with mobile first in mind by creating easy readable and easy to separate pieces of content.
+The pages were structured in a way that most importat content is displayed in front of your eyes, then in order of priority ddown the line.
+The user experience is designed so that the user can discover needed information and most importantly send us their work for a possible colaboration trough a call to action button which is easily available on mobile view. 
+
+#### Target Audience
+
+* Musical genre fans
+* Ravers
+* Aspiring producers and dj's
+* Established producers and dj's
+
 ### User Stories
+---
 1. As a radio dj I'm always looking for fresh new music that's easy to reach.
 2. As a new producer, looking for a place to sign with, I want to send demos easy and fast.
 3. As a first time user I want to find out more about the Record Label.
@@ -29,21 +50,45 @@ Also there will be a **Send Demos** page where the visitor will be able to send 
 7. As a site owner, I want users to be able to contact us easily with queries or feedback.
 
 ### Site Owner Goals
+---
 1. To have all the information easy to reach.
 2. To have an attractive and easy to use site.
 3. To have a site that is responsive on all devices and easy to navigate.
 4. To recieve as many demos as possible , with the related info needed as well.
 
+### Scope
+---
+The scope of the project is defined by:
+
+* Navigation bar, for a simple navigation of the website
+* Footer available in all the website's pages, with links to social media platforms
+* Modal where you can send your work to us for a possible release
+* Contact form , for queries and feedback.
+* A reviews page which contains reviews from our colaborators and some clips from projects we have been involved in.
+* Embeded map with a location pin , to let users know where we are situated.
+* Favicon to help users identify the website easier.
+* Gallery to showcase some of our best moments.
+
+Features to be built in future releases:
+
+* A built in player for our releases with more info about the creator and other links.
+* A newsletter subscription system with monthnly newsletters.
+* A news page with the hottest news from the industry leading players.
+
 ### Design Choices
-* The goal for this site was to create a simple and easy to use platform, that has also the "underground vibe" that is characteristic to the musical genre.
+---
+* The goal for this site was to create a simple and easy to use platform, that expresses the minimalist sound we push and an "underground vibe" that is characteristic to the musical genre.
 
 ### Colors
+---
 Main colors are **Black** / **Grey** and **Dark Orange**. Most of the website is **Black** and **Grey** to give the feeling of something minimalistic, simple and dark, like the club sound that we are promoting, the **Dark Orange** color is used in the Navbar and Footer and ads a nice touch to the minimalist vibe that we aimed to create.
 
 ### Fonts
+---
 I have used Ubuntu as the font for the whole website. Clean and easy to read.
 
 ### Structure
+---
 In the upper part there's a navigation menu, which contains the name of the record label "Unfelde Records" in the left side , then in the middle section whe have 4 pages "Gallery, Releases, Reviews and Contact" and in the right side we have a button "Send Demos" that opens up a modal.
 On the index page, we have **Our Story**, with some information about what we are and what we are doing, and underneath there's a carousel with photos from festivals and events.
 Then The **Gallery** page, displays a whole page of images from different places where our music is used and enjoyed...and made :)
@@ -53,6 +98,7 @@ Then we have our **Contact** page where you will find a form for sending us enqu
 **Send Demos** is a modal that can be accesed from all the pages, which contains our logo and a form which is designed for the producers that want to send us demos for a chance to get to release their music with us.
 
 ### Frameworks, libraries and other tools 
+---
 
 1. [Git](https://git-scm.com/)
 2. [GitHub](https://github.com/)
@@ -67,6 +113,7 @@ Then we have our **Contact** page where you will find a form for sending us enqu
 
 
 ### Wireframes 
+---
 1. Index
 * [mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/mobile/index_mobile.png)
 * [tablet](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/tablet/index_tablet.png)
@@ -95,6 +142,7 @@ Then we have our **Contact** page where you will find a form for sending us enqu
 6. [Modal](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/wireframes/modal.png)
  
 ### Testing
+---
 
 #### HTML Validation
 
@@ -165,7 +213,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
 * *Firefox*: Website and user stories work as expected.
 
 #### Testing user stories
-
+---
 1. As a radio dj I'm always looking for fresh new music that's easy to reach.
   <table>
         <tr>
@@ -181,6 +229,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table> 
+  ---
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story1.png)
 
 
@@ -199,6 +248,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  ---
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story2.png)
 
 
@@ -217,6 +267,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  ---
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story3.png)
 
 
@@ -235,6 +286,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  ---
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story4.png)
 
 
@@ -253,6 +305,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  ---
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story5.png)
 
 
@@ -271,6 +324,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  ---
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story6.png)
 
 
@@ -289,16 +343,19 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
+  ---
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story7.png)
 
 
 ### Languages Used
+---
 
 * Html5
 * Css3
 * JavaScript
 
 ### Credits
+---
 
 #### Code
 * *Bootstrap* - code for Navbar / Modal / Form
