@@ -229,7 +229,8 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table> 
-  ---
+ 
+
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story1.png)
 
 
@@ -248,7 +249,8 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
-  ---
+  
+
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story2.png)
 
 
@@ -267,7 +269,8 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
-  ---
+  
+
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story3.png)
 
 
@@ -286,7 +289,8 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
-  ---
+  
+
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story4.png)
 
 
@@ -305,7 +309,8 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
-  ---
+  
+
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story5.png)
 
 
@@ -324,7 +329,8 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
-  ---
+  
+
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story6.png)
 
 
@@ -343,9 +349,173 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
             <td>Works as expected</td>
         </tr>
   </table>
-  ---
+  
+
   [Screenshot](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/user_story/user-story7.png)
 
+
+
+### Features
+---
+The website has 5 pages plus a modal and x features.
+
+#### Current Features
+
+##### Page 1: Home Page
+
+The home page contains 4 sections:
+
+1. A navbar with links to the rest of the pages and the modal.
+2. The our story section which displays information about how we started.
+3. A carousel which contains some images from festivals and it's role is to beautify the page.
+4. The footer with the social media links on it.
+
+The page is fully responsive on mobile and tablet.
+
+###### Section 1 Navbar
+
+It's simple and in contrast , contains the needed information and the modal button.
+
+###### Section 2 Our Story
+
+It's a paragraph with text. In mobile view it has a scrollbar and underneath the text is placed the send demos button 
+which is moved from the navbar because of lack of space.
+
+###### Section 3 Carousel
+
+It is adapted after a bootstrap carousel
+
+###### Section 4 Footer
+
+A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+
+---
+##### Page 2: Gallery
+
+The gallery page contains 3 sections:
+
+1. A navbar with links to the rest of the pages and the modal.
+2. The actual gallery which contains photost from our most beloved moments.
+3. The footer with the social media links on it.
+
+The page is fully responsive on mobile and tablet.
+
+###### Section 1 Navbar
+
+It's simple and in contrast , contains the needed information and the modal button.
+
+###### Section 2 Gallery
+
+It's a 3 column gallery which in mobile wiev is displayed on 2 rows.
+
+###### Section 3 Footer
+
+A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+
+---
+##### Page 3: Releases
+
+The releases page contains 4 sections:
+
+1. A navbar with links to the rest of the pages and the modal.
+2. Digital section
+3. Vinyl-only
+4. The footer with the social media links on it.
+
+The page is fully responsive on mobile and tablet.
+
+###### Section 1 Navbar
+
+It's simple and in contrast , contains the needed information and the modal button.
+
+###### Section 2 Digital
+
+It's a 3 column bootstrap adapted cards with fully working links , which in mobile change to 2 rows
+and it displays the digital releases we have.
+
+###### Section 3 Vinyl-Only
+
+It's a 3 column bootstrap adapted cards with fully working links , which in mobile change to 2 rows
+and it displays the vinyl-only releases we have.
+
+###### Section 4 Footer
+
+A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+
+---
+##### Page 4: Reviews
+
+The releases page contains 3 sections:
+
+1. A navbar with links to the rest of the pages and the modal.
+2. The reviews section which is comprised of 6 divs that contain revies and video clips 
+3. The footer with the social media links on it.
+
+The page is fully responsive on mobile and tablet.
+
+###### Section 1 Navbar
+
+It's simple and in contrast , contains the needed information and the modal button.
+
+###### Section 2 Reviews
+
+It's a 2 row and 3 column div display that contain reviews on the left and right sides and a clip in the middle. 
+
+###### Section 3 Footer
+
+A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+
+---
+##### Page 5: Contact
+
+The releases page contains 5 sections:
+
+1. A navbar with links to the rest of the pages and the modal.
+2. A form 
+3. Contact Details
+4. An embeded map 
+5. The footer with the social media links on it.
+
+The page is fully responsive on mobile and tablet.
+
+###### Section 1 Navbar
+
+It's simple and in contrast , contains the needed information and the modal button.
+
+###### Section 2 The form
+
+It's a email and details form, used to give feedback or queries, with a send button underneath.
+
+###### Section 3 Contact info
+
+It's code adapted from "Ken Wee Chin" which displays our email address phone nr and phisical address.
+
+###### Section 4 Map
+
+It's an embeded map from Google Maps which pinpoints our location.
+
+###### Section 5 Footer
+
+A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+
+---
+##### Modal
+
+The modal page contains 2 sections:
+
+1. The logo
+2. A form 
+
+##### Section 1 Logo
+
+It is adapted after code in code institute love running lesson, and it deisplays our logo in a square frame
+with rounded corners.
+
+##### Section 2 The Form
+
+It's a email, bio and details, and link form, used to give feedback or queries, with a send button underneath.
+
+---
 
 ### Languages Used
 ---
