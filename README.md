@@ -541,6 +541,22 @@ It's a email, bio and details, and link form, used to give feedback or queries, 
 * Css3
 * JavaScript
 
+### Deployment
+---
+
+#### GitHub Pages
+
+GitHub was used to deploy this website. To do the same...
+
+1. Log into your GitHub account and find the [repository](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records). 
+2. Click on 'Settings' in the repository. 
+3. Click 'Pages' in the left-hand menu once you're in Settings. 
+4. Click 'Source'.
+5. Click the dropdown menu which says 'None', then select 'Master Branch'.
+6. Wait for page to refresh automatically. 
+7. Under GitHub pages you can now find a link to the published live website. 
+
+
 ### Credits
 ---
 
