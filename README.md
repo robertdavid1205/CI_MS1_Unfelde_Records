@@ -368,19 +368,23 @@ The page is fully responsive on mobile and tablet.
 ###### Section 1 Navbar
 
 It's simple and in contrast , contains the needed information and the modal button.
+![Navbar](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-logo.png)
 
 ###### Section 2 Our Story
 
 It's a paragraph with text. In mobile view it has a scrollbar and underneath the text is placed the send demos button 
 which is moved from the navbar because of lack of space.
+![Our Story](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-our-story.png)
 
 ###### Section 3 Carousel
 
 It is adapted after a bootstrap carousel
+![Carousel](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-carousel.png)
 
 ###### Section 4 Footer
 
 A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+![Footer](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-footer.png)
 
 ---
 ##### Page 2: Gallery
@@ -396,14 +400,18 @@ The page is fully responsive on mobile and tablet.
 ###### Section 1 Navbar
 
 It's simple and in contrast , contains the needed information and the modal button.
+![Navbar](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-logo.png)
 
 ###### Section 2 Gallery
 
 It's a 3 column gallery which in mobile wiev is displayed on 2 rows.
+![Gallery](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-gallery.png)
+![Gallery Mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-gallery-mobile.png)
 
 ###### Section 3 Footer
 
 A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+![Footer](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-footer.png)
 
 ---
 ##### Page 3: Releases
@@ -420,20 +428,26 @@ The page is fully responsive on mobile and tablet.
 ###### Section 1 Navbar
 
 It's simple and in contrast , contains the needed information and the modal button.
+![Navbar](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-logo.png)
 
 ###### Section 2 Digital
 
 It's a 3 column bootstrap adapted cards with fully working links , which in mobile change to 2 rows
 and it displays the digital releases we have.
+![Digital](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-digital.png)
+![Digital Mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-digital-mobile.png)
 
 ###### Section 3 Vinyl-Only
 
 It's a 3 column bootstrap adapted cards with fully working links , which in mobile change to 2 rows
 and it displays the vinyl-only releases we have.
+![Vinyl](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-vinyl.png)
+![Vinyl Mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-vinyl-mobile.png)
 
 ###### Section 4 Footer
 
 A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+![Footer](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-footer.png)
 
 ---
 ##### Page 4: Reviews
@@ -449,14 +463,18 @@ The page is fully responsive on mobile and tablet.
 ###### Section 1 Navbar
 
 It's simple and in contrast , contains the needed information and the modal button.
+![Navbar](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-logo.png)
 
 ###### Section 2 Reviews
 
 It's a 2 row and 3 column div display that contain reviews on the left and right sides and a clip in the middle. 
+![Reviews](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-reviews.png)
+![Reviews Mobile](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-reviews-mobile.png)
 
 ###### Section 3 Footer
 
 A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+![Footer](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-footer.png)
 
 ---
 ##### Page 5: Contact
@@ -474,22 +492,27 @@ The page is fully responsive on mobile and tablet.
 ###### Section 1 Navbar
 
 It's simple and in contrast , contains the needed information and the modal button.
+![Navbar](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-logo.png)
 
 ###### Section 2 The form
 
 It's a email and details form, used to give feedback or queries, with a send button underneath.
+![The Form](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-contact.png)
 
 ###### Section 3 Contact info
 
 It's code adapted from "Ken Wee Chin" which displays our email address phone nr and phisical address.
+![Contact Info](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-contact-info.png)
 
 ###### Section 4 Map
 
 It's an embeded map from Google Maps which pinpoints our location.
+![Map](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-contact-map.png)
 
 ###### Section 5 Footer
 
 A simple footer, designed in hte same color as the navbar, with links to the social media platforms
+![Footer](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-footer.png)
 
 ---
 ##### Modal
@@ -503,6 +526,7 @@ The modal page contains 2 sections:
 
 It is adapted after code in code institute love running lesson, and it deisplays our logo in a square frame
 with rounded corners.
+![Modal](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/blob/master/docs/features/features-modal.png)
 
 ##### Section 2 The Form
 
