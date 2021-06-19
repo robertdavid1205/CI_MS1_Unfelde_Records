@@ -350,7 +350,7 @@ Results here: [Index](https://github.com/robertdavid1205/CI_MS1_Unfelde_Records/
 
 ### Features
 ---
-The website has 5 pages plus a modal and x features.
+The website has 5 pages plus a modal and 12 features.
 
 #### Current Features
 
