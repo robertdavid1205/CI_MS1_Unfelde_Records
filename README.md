@@ -32,14 +32,12 @@
     7. [Testing user stories](#testing-user-stories)
 8. [Features](#features)
 9. [Languages](#languages-used)
-10. [Credits](#credits)
+10. [Deployment](#deployment)
+11. [Credits](#credits)
     1. [Code](#code)
     2. [Media](#media)
     3. [Acknowledgements](#acknowledgements)
-
-. [Technologies Used](#technologies-used)
-. [Deployment](#deployment)
-
+---
 
 Unfelde Records is a Underground Minimal/Techno record label that releases underground electronic music in both digital and Vinyl-Only format for a niched public.
 I aim to present our brand and what it stands for, our releases with links to sites and a gallery from events we had, alongside with contact details  and reviews.
